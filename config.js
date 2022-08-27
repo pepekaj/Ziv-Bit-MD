@@ -6,7 +6,7 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6289606790112', '️RezaOfc', true]
+  ['16199961931', '️Ziv San', true]
 ]
 global.mods = []
 global.prems = []
@@ -67,15 +67,15 @@ global.xteamkey = 'NezukoTachibana281207'
 */
 
 /*Number*/
-global.nomorbot = '6283823103071'
-global.nomorown = '6289606790112'
-global.namebot = 'EzaBot-MD'
-global.nameown = '「 RezaOfc 」'
+global.nomorbot = '6282179683512'
+global.nomorown = '16199961931'
+global.namebot = 'Cute-MD'
+global.nameown = '「 Zivsan 」'
 
 /*Watermark*/
-global.wm = '                「 EzaBot-MD⁩ 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘RezaOfc˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ EzaBot-MD'
+global.wm = '                「 CUTE-MD⁩ 」'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ CUTEIQMD ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ CUTE-MD'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
